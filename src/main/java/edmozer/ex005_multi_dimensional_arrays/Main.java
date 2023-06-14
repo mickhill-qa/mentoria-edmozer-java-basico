@@ -1,3 +1,5 @@
+package edmozer.ex005_multi_dimensional_arrays;
+
 import java.util.Arrays;
 
 public class Main {

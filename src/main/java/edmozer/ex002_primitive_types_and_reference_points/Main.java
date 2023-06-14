@@ -1,3 +1,5 @@
+package edmozer.ex002_primitive_types_and_reference_points;
+
 import java.awt.*;
 
 public class Main {
